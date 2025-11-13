@@ -48,12 +48,13 @@ class Program
         }
 
         Console.WriteLine("Print bilangan 1 - " + limit + " :");
+        //{ 1%limit == modularResult } supaya gk keluar kosong pas input limit 1 choise genap
         if (limit <= 0 || 1%limit == modularResult)
         {
             Console.WriteLine("Input Limit Invalid !!!!");
             return;
         }
-        
+
 
         for (int i = 1; i <= limit; i++)
         {
