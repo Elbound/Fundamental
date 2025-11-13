@@ -1,0 +1,14 @@
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\bin\Debug\net8.0\OddEvenApp.exe
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\bin\Debug\net8.0\OddEvenApp.deps.json
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\bin\Debug\net8.0\OddEvenApp.runtimeconfig.json
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\bin\Debug\net8.0\OddEvenApp.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\bin\Debug\net8.0\OddEvenApp.pdb
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.AssemblyInfoInputs.cache
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.AssemblyInfo.cs
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.csproj.CoreCompileInputs.cache
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\refint\OddEvenApp.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.pdb
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\OddEvenApp.genruntimeconfig.cache
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\OddEvenApp\obj\Debug\net8.0\ref\OddEvenApp.dll

@@ -1,0 +1,14 @@
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.exe
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.deps.json
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.runtimeconfig.json
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\bin\Debug\net8.0\BasicProgramming.pdb
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.AssemblyInfoInputs.cache
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.AssemblyInfo.cs
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.csproj.CoreCompileInputs.cache
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\refint\BasicProgramming.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.pdb
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.genruntimeconfig.cache
+c:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\ref\BasicProgramming.dll
