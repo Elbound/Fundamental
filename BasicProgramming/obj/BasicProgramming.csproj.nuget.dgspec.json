@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {}
+    "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {}
   },
   "projects": {
-    "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {
+    "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
+        "projectUniqueName": "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
         "projectName": "BasicProgramming",
-        "projectPath": "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
+        "projectPath": "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
         "packagesPath": "C:\\Users\\Stanza\\.nuget\\packages\\",
-        "outputPath": "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\obj\\",
+        "outputPath": "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\BasicProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanza\\AppData\\Roaming\\NuGet\\NuGet.Config",

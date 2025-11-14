@@ -95,52 +95,46 @@ class Program
 
     static void Main(string[] args)
     {
-        var input = "";
+        string input;
         do
         {
             Menu();
             Console.Write("Pilihan: ");
             input = Console.ReadLine();
 
-            switch (input)
+            try
             {
-                case "1":
-                    Console.Write("Masukan Bilangan yang ingin di cek: ");
-                    var input_I = Console.ReadLine();
-                    try
-                    {
+                switch (input)
+                {
+                    case "1":
+                        Console.Write("Masukan Bilangan yang ingin di cek: ");
+                        var input_I = Console.ReadLine();
                         int convert_I = Convert.ToInt32(input_I);
                         input_I = CheckEvenOrOdd(convert_I);
                         Console.WriteLine(input_I);
-                    }
-                    catch
-                    {
                         Console.WriteLine("Input harus numeric!!");
-                    }
-                    
-
-                    break;
-                case "2":
-                    Console.Write("Pilih (Ganjil / Genap): ");
-                    var input_II = Console.ReadLine() ?? "";
-                    Console.Write("Masukan Limit: ");
-                    var input_III = Console.ReadLine();
-                    int convert_II;
-                    try
-                    {
+                        break;
+                    case "2":
+                        Console.Write("Pilih (Ganjil / Genap): ");
+                        var input_II = Console.ReadLine() ?? "";
+                        
+                        Console.Write("Masukan Limit: ");
+                        var input_III = Console.ReadLine();
+                        int convert_II;
                         convert_II = Convert.ToInt32(input_III);
                         PrintEvenOdd(convert_II, input_II);
-                    }
-                    catch
-                    {
-                        Console.WriteLine("Input Limit tidak valid!!");
-                    }
-                    break;
-                case "3":
-                    break;
-                default:
-                    Console.WriteLine("Invalit Input, Choose Listed Menu !!!!");
-                    break;
+                        break;
+                    case "3":
+                        break;
+                    default:
+                        Console.WriteLine("Invalit Input, Choose Listed Menu !!!!");
+                        break;
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Input tidak valid!!");
+                throw;
             }
 
             Console.ReadLine();

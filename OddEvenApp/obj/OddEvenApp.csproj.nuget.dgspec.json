@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj": {}
+    "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj": {}
   },
   "projects": {
-    "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj": {
+    "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj",
+        "projectUniqueName": "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj",
         "projectName": "OddEvenApp",
-        "projectPath": "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj",
+        "projectPath": "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\OddEvenApp.csproj",
         "packagesPath": "C:\\Users\\Stanza\\.nuget\\packages\\",
-        "outputPath": "c:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\obj\\",
+        "outputPath": "C:\\MyData\\magang nasional\\dotnet\\tes2\\Fundamental\\OddEvenApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanza\\AppData\\Roaming\\NuGet\\NuGet.Config",

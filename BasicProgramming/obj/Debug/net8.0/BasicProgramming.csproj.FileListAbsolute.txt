@@ -12,3 +12,4 @@ C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net
 C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.pdb
 c:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.genruntimeconfig.cache
 c:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\ref\BasicProgramming.dll
+C:\MyData\magang nasional\dotnet\tes2\Fundamental\BasicProgramming\obj\Debug\net8.0\BasicProgramming.sourcelink.json
