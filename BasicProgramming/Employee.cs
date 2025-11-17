@@ -3,10 +3,10 @@ using System.Text.Encodings.Web;
 
 namespace BasicProgramming;
 
-public class Employee
+public class Employee<TId>
 {
     
-    public int Id { get; private set; }
+    public TId Id { get; private set; }
     public string FullName { get; set; }
     public string Job { get; set; }
     private float salary;
@@ -28,9 +28,18 @@ public class Employee
     {
         
     }  
-    public Employee(int Id)
+    public Employee(TId Id)
     {
         this.Id = Id;
+        System.Console.WriteLine("instantiate employee");
+    }
+
+    public Employee(TId Id, string FullName, string Job, float salary)
+    {
+        this.Id = Id;
+        this.FullName = FullName;
+        this.Job = Job;
+        this.salary = salary;
         System.Console.WriteLine("instantiate employee");
     }
 

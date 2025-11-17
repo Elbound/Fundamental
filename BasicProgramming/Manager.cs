@@ -1,8 +1,8 @@
 namespace BasicProgramming;
 
-public class Manager: Employee
+public class Manager<TMId>: Employee<TMId>
 {
-    public Manager(int Id) : base(Id)
+    public Manager(TMId Id) : base(Id)
     {
         System.Console.WriteLine("instantiate manager");
     }
