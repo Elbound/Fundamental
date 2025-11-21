@@ -271,7 +271,13 @@ class Program
                 }
 
             }
-            catch (Exception ex)
+            catch (Exception ex) when 
+            (
+                ex is InsufficientFundsException ||
+                ex is OutOfStockException ||
+                ex is KeyNotFoundException ||
+                ex is FormatException
+            )
             {
                 // var certainException = ex.GetBaseException();
                 statusMessage = ex.Message;
